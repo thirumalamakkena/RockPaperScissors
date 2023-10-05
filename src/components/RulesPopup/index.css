@@ -1,0 +1,43 @@
+.rules-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 50px;
+  margin-right: 30px;
+}
+
+.rule-btn {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 8px;
+  color: #223a5f;
+  font-weight: 600;
+  font-size: 12px;
+  font-family: 'Bree Serif';
+}
+
+.rules-img {
+  width: 500px;
+  height: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.popup-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.close-btn {
+  align-self: flex-end;
+  border: none;
+  margin: 10px;
+  padding-top: 6px;
+  padding-bottom: 3px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
